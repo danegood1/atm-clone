@@ -1,11 +1,12 @@
 # Python
 
-# atm-clone
+# ATM-clone
 
 ## Run project:
 
-* Open manage.py in Terminal run command:
+* Open Capstone.py in Terminal run command:
 * python Capstone.py runserver
+* Follow Terminal prompts
 
 ## Preview Image:
 
